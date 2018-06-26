@@ -1,0 +1,6 @@
+Ensure patterns capture number names
+
+add standard fields specific to some objects
+
+Current Limitations:
+Doesn't include reports, email templates, Lightning code

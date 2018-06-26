@@ -1,0 +1,2 @@
+
+java -cp tools.jar;.\force-wsc-35.0.0.jar;js-1.7R2.jar;stringtemplate-4.0.2.jar;antlr-complete-3.5.1.jar com.sforce.ws.tools.wsdlc partner.wsdl partner.jar

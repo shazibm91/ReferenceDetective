@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/force-wsc-35.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/partner.jar"/>
+	<classpathentry kind="lib" path="lib/metadata.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/antlr-complete-3.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/ST4-4.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/stringtemplate-4.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
